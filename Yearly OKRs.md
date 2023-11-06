@@ -1,17 +1,17 @@
-# Yearly OKRs {{date:YYYY}}
+# 年間の目標と成果指標（OKRs）{{date:YYYY}}
 
-Write no more than 5 OKRs for this year, and create a page for each.
+今年の目標として、最大5つのOKRsを記述し、それぞれにページを作成してください。
 
-Put your cursor on the line you want the new OKR to be in, and then hit `CMD '`. Select `Add Yearly OKR`. The new page will be created.
+新しいOKRを追加したい行にカーソルを置き、CMD '（コマンド+アポストロフィ）を押してください。"年間のOKRを追加"を選択すると、新しいページが作成されます。
 
-## Work
-
-
-
-## Health
+## 仕事
 
 
 
-## Wealth
+## 健康
+
+
+
+## 幸せ
 
 
