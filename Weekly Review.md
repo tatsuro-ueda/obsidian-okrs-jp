@@ -1,47 +1,47 @@
-# Review: {{date:YYYY}}-{{date:MM}}-{{date:WW}}
+# レビュー: {{date:YYYY}}-{{date:MM}}-{{date:WW}}
 
-## End-of-week checklist
+## 週末チェックリスト
 
-- Get to [[Inbox Zero]] on all emails 
-- [ ] Open physical mail
-- [ ] Delete Downloads folder
-- [ ] Delete Desktop
-- [ ] Restart computer
-- [ ] Tidy desk
-- [ ] Tidy room
-- [ ] Review [[Content Board]] and update it.
-- GTD Review
+- 全てのメールで[[インボックスゼロ]]を達成する
+- [ ] 郵便物を開ける
+- [ ] ダウンロードフォルダを削除する
+- [ ] デスクトップを削除する
+- [ ] コンピューターを再起動する
+- [ ] 机を片付ける
+- [ ] 部屋を片付ける
+- [ ] [[コンテンツボード]]のレビューと更新を行う。
+- GTDレビュー
 	- k6
-		- [ ] Review projects on Monday and make sure each one has a task
-	- Personal
-		- [ ] Review [[My Projects]] (personal) and make sure each one has a next action.
-		- [ ] Review [[Tasks#Next Actions]].
-		- [ ] Review [[Tasks#Waiting For]].
-		- [ ] Review [[Tasks#Someday Maybe]].
-- Do [[Financial reconciliation]]
-- [ ] Send a weekly newsletter?
-- [ ] Update website with content created this week.
+		- [ ] 月曜日にプロジェクトをレビューし、各プロジェクトにタスクがあることを確認する
+	- 個人的なこと
+		- [ ] [[私のプロジェクト]]（個人的なもの）をレビューし、次のアクションがあることを確認する。
+		- [ ] [[タスク#次のアクション]]をレビューする。
+		- [ ] [[タスク#待機中]]をレビューする。
+		- [ ] [[タスク#いつかやるかも]]をレビューする。
+- [[財務調和]]を行う
+- [ ] 週刊ニュースレターを送信する？
+- [ ] 今週作成したコンテンツでウェブサイトを更新する。
 
-## Monthly initiatives
+## 月間の取り組み
 
-Keep these things in mind as you do this week's review:
+今週のレビューを行う際に、以下の事項を念頭に置く:
 
-![[Monthly Review {{date:YYYY-MM}}#This month]]
+![[月間レビュー {{date:YYYY-MM}}#この月]]
 
-## Last week
+## 先週
 
-![[Weekly Review <% tp.date.now("YYYY") %>-W<% tp.date.now("ww"), %>#This week]]
+![[週次レビュー <% tp.date.now("YYYY") %>-W<% tp.date.now("ww"), %>#今週]]
 
 ```ad-question
-title: Questions to ask
-What were your goals last week, and did you finish them? What are you changing so that you can do them this month?
+title: 聞くべき質問
+先週の目標は何でしたか、達成しましたか？それらを今月達成するために何を変更しますか？
 ```
 
-## This week
+## 今週
 
 ```ad-question
-title: Three goals
-If you could only get three specific goals done this week, what would they be? How do they relate to your monthly initiatives and yearly OKRs?
+title: 三つの目標
+今週達成できるとしたら、どの三つの具体的な目標を選びますか？それらはあなたの月間の取り組みや年間のOKRsとどのように関連していますか？
 ```
 
 - [ ] 
