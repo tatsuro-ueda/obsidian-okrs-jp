@@ -3,41 +3,35 @@ publish: false
 ---
 
 # {{date:dddd, MMMM D, YYYY}}
-## Direction
+## 目指すべき方向
 
-This is what you're working towards!
+これがあなたが目指すものです！
 
-![[Weekly Review {{date:YYYY}}-W{{date:ww}}#This week]]
+![[週次レビュー {{date:YYYY}}年-W{{date:ww}}週#今週]]
 
-## Health
+## 健康
 
-Weight:: 
-Exercise:: 
-Food Journal:: 
+体重:: 
+運動:: 
+食事日記::
 
-## Today's Frogs
+## 今日の重要事項
 
-Which things from [[Tasks]] do you particularly want to accomplish today?
+[[タスク]]から、今日特に達成したいことは何ですか？
 
 - [ ] 
 - [ ] 
 - [ ] 
 
-## Log
+## ログ
 
+## レビュー
 
+### 誇り
+私は自分が...できたことを誇りに思います。
 
+### 感謝
+私は...に感謝しています。
 
-
-## Review
-
-### I'm proud that...
-
-
-
-### I'm grateful that...
-
-
-
-
-### Tomorrow, I need to...
+### 明日
+明日、私は...する必要があります。
