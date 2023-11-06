@@ -1,17 +1,15 @@
-# My Core Principles
+# 私の基本原則
 
-These are principles that define who I am. When faced with a decision, there are the principles that will guide me to choose a path.
+これらは私が何者であるかを定義する原則である。決断を迫られたとき、私が道を選ぶ指針となる原則がある。
 
-## Principle 1
+## 原則1
 
-_Description. What does this core principle mean to me?_
+（説明を書く。この基本原則は私にとって何を意味するのか？）
 
-What it looks like when I'm practicing this
-- _One way to know I'm practicing this principle_
+私がこれを実践しているとき、それはどのように見えるか。
+- _私がこの原則を実践していることを知る一つの方法_
 - 
 
-What it looks like when I'm not practicing this
-- _One way to know I'm NOT practicing this principle_
+私がこの原則を実践していないとき、それはどのように見えるか
+- _私がこの原則を実践していないことを知る一つの方法_
 - 
-
-
